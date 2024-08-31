@@ -1,0 +1,36 @@
+{
+  "name": "resource-hub",
+  "version": "1.0.0",
+  "description": "### Technology used",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oceans404/resource-hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oceans404/resource-hub/issues"
+  },
+  "homepage": "https://github.com/oceans404/resource-hub#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "ethers": "^5.6.7",
+    "hardhat": "^2.9.6"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.1",
+    "ethereum-waffle": "^3.4.4",
+    "solc": "^0.8.14-fixed",
+    "solc-js": "^1.0.1"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
