@@ -24,6 +24,8 @@ Unlike traditional platforms such as Notion, Google Drive, or Wikipedia, Vaultif
 
 ![Diagram of Vaultify](https://github.com/samarabdelhameed/pics/blob/main/vaultify_professional_diagram_final.png)
 
+## project links 
+- **github**: [Repo](https://github.com/samarabdelhameed/Vaultify)
 
 ## Technology Stack
 
