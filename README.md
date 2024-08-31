@@ -56,7 +56,7 @@ To get started with Vaultify, follow these steps:
 1. **Create a Figment Account**: Sign up at [Figment DataHub](https://datahub.figment.io/) and create a new project. Copy the project ID for later use.
 2. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-repo/vaultify.git
+    git clone 
     cd vaultify/frontend
     ```
 3. **Set Up Environment Variables**:

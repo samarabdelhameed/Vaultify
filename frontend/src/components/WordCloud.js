@@ -100,7 +100,7 @@ const words = [
     value: 20,
   },
   {
-    text: 'sphere',
+    text: 'Vaultify',
     value: 59,
   },
   {
@@ -252,7 +252,7 @@ const words = [
     value: 20,
   },
   {
-    text: 'sphere',
+    text: 'Vaultify',
     value: 59,
   },
   {
@@ -406,7 +406,7 @@ const words = [
     value: 20,
   },
   {
-    text: 'sphere',
+    text: 'Vaultify',
     value: 59,
   },
   {
@@ -558,7 +558,7 @@ const words = [
     value: 20,
   },
   {
-    text: 'sphere',
+    text: 'Vaultify',
     value: 59,
   },
   {

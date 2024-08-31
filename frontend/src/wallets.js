@@ -7,7 +7,7 @@ const rpcUrl = `https://${rpcNetwork}.datahub.figment.io/apikey/${process.env.RE
 
 export const CoinbaseWallet = new WalletLinkConnector({
   url: rpcUrl,
-  appName: 'Sphere',
+  appName: 'Vaultify',
   supportedChainIds: [1, 3, 4, 5, 42, 56, 137, 80001],
 });
 
